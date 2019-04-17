@@ -7,6 +7,7 @@ A simple custom alias to back directory navigation in terminal.
 
 | Description       | Usage       |
 | :---------------- | :---------- |
+| Back dir          | `..`        |
 | Back N dir(s)     | `.. N`      |
 | Go to $HOME       | `.. ~`      |
 | Back to last dir  | `.. -`      |
